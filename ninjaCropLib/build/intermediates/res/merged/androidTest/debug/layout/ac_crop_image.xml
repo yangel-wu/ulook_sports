@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red_bg"
+    android:orientation="vertical">
+
+    <gdg.ninja.croplib.utils.ZoomImageView
+        android:id="@+id/img_quest_hint"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="9"
+        android:background="@color/black"
+        android:scaleType="matrix" />
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#000000"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/btn_create"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/live_pic_commit"
+                android:textColor="@color/red_bg" />
+
+            <TextView
+                android:id="@+id/btn_cancle"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/live_pic_cancel" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/F:/WorkSpace/MyApplication2/ninjaCropLib/src/main/res/layout/ac_crop_image.xml --><!-- From: file:/F:/WorkSpace/MyApplication2/ninjaCropLib/build/intermediates/bundles/debug/res/layout/ac_crop_image.xml -->

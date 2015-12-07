@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_000"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_001"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_002"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_003"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_004"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_005"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_006"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_007"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_008"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_009"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_010"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_011"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_012"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_013"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_014"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_015"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_016"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_017"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_018"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_019"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/loading_020"-->
+        <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_021"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_022"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_023"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_024"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_025"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_026"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_027"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_028"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_029"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_030"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_031"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_032"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_033"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_034"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_035"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_036"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_037"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_039"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_041"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_043"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_045"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_047"-->
+    <!--android:duration="400" />-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_048"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_049"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_050"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_051"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_052"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_053"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_054"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_055"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_056"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_057"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_058"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_059"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_060"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_061"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_062"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_063"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_064"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_065"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_066"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_067"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_068"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_069"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_070"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_071"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_072"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_073"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_074"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_075"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_076"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_077"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--<item-->
+    <!--android:drawable="@drawable/loading_078"-->
+    <!--android:duration="400" />-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_079"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_080"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_081"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+    <!--&lt;!&ndash;android:drawable="@drawable/loading_082"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:duration="400" />&ndash;&gt;-->
+</animation-list>
